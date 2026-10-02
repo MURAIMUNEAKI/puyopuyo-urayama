@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ブロック崩し Arcade",
+  "description": "爽快なエフェクトと打球感が楽しめる本格派ブロック崩しゲーム。矢印キーやマウスでパドルを操作し、全ステージのクリアを目指しましょう。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
